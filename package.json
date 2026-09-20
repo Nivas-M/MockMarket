@@ -1,0 +1,22 @@
+{
+  "name": "mocha-practice",
+  "version": "1.0.0",
+  "description": "Mocha Practice - Fake/Paper Trading Simulator MVP with Leveraged Trading & Leaderboard",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "trading",
+    "paper-trading",
+    "simulator",
+    "leverage",
+    "leaderboard",
+    "hackathon",
+    "mvp"
+  ],
+  "author": "Mocha Practice Team",
+  "license": "MIT"
+}
+
